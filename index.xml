@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://duanmeng8272.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jan 2021 00:16:01 +0800</lastBuildDate><atom:link href="http://duanmeng8272.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://duanmeng8272.github.io/post/first/</link>
+      <pubDate>Fri, 22 Jan 2021 00:16:01 +0800</pubDate>
+      
+      <guid>http://duanmeng8272.github.io/post/first/</guid>
+      <description>1.aaa
+2.bbb
+3.ccc</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://duanmeng8272.github.io/about/</link>
+      <pubDate>Fri, 22 Jan 2021 00:14:05 +0800</pubDate>
+      
+      <guid>http://duanmeng8272.github.io/about/</guid>
+      <description>这是一个自动网站生成的例子</description>
+    </item>
+    
+  </channel>
+</rss>
